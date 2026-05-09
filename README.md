@@ -45,4 +45,4 @@ The code is obfuscated to protect intellectual property and ensure high-level se
 
 ---
 
-© 2025 Flowtik by Manal. All Rights Reserved.
+© 2026 Flowtik by Manal. All Rights Reserved.
