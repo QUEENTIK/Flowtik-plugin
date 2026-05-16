@@ -11,7 +11,7 @@ Flowtik 1.4.2 The ultimate tool to bypass TikTok compression. • Supports 60 &a
 * **Created by:** Manal (Queen) | **بواسطة:** المبرمجة منال
 * **TikTok:** [@queen_iy](https://www.tiktok.com/@queen_iy)
 * **Official Website:** [4tiko.netlify.app](https://4tiko.netlify.app)
-* * **Flowtik Chrome Browser:** [Chrome Browser](https://chrome.google.com/webstore/detail/kbklilopalpkdoedbjcehcmigpmikcpe)
+* * **Flowtik Chrome Browser:** [install](https://chrome.google.com/webstore/detail/kbklilopalpkdoedbjcehcmigpmikcpe)
 
 ---
 
