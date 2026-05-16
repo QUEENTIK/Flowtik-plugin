@@ -1,6 +1,6 @@
 # Flowtik-plugin
-Flowtik 1.3.0 The ultimate tool to bypass TikTok compression. • Supports 60 &amp; 120 FPS. • Enhances video clarity. • Fast, secure &amp; easy to use. • Trusted on Brave &amp; Edge.
-# 🚀 Flowtik 1.3.0 | Ultra-Quality Enhancer
+Flowtik 1.4.2 The ultimate tool to bypass TikTok compression. • Supports 60 &amp; 120 FPS. • Enhances video clarity. • Fast, secure &amp; easy to use. • Trusted on Brave &amp; Edge.
+# 🚀 Flowtik 1.4.2 | Ultra-Quality Enhancer
 
 **Flowtik** is a high-performance browser extension designed to bypass social media compression algorithms, ensuring your videos maintain crystal-clear quality and smooth motion.
 **Flowtik** هي أداة متطورة مصممة لمساعدة صناع المحتوى على تخطي قيود ضغط الفيديو في منصات التواصل الاجتماعي والحفاظ على الجودة الكاملة وسلاسة الحركة.
@@ -11,7 +11,7 @@ Flowtik 1.3.0 The ultimate tool to bypass TikTok compression. • Supports 60 &a
 * **Created by:** Manal (Queen) | **بواسطة:** المبرمجة منال
 * **TikTok:** [@queen_iy](https://www.tiktok.com/@queen_iy)
 * **Official Website:** [4tiko.netlify.app](https://4tiko.netlify.app)
-* * **Flowtik Edge Browser:** [Edge Browser](https://microsoftedge.microsoft.com/addons/detail/ahjllkbifcphodnlhjehmiidgpodphcb)
+* * **Flowtik Edge Browser:** [Edge Browser](https://chrome.google.com/webstore/detail/kbklilopalpkdoedbjcehcmigpmikcpe)
 
 ---
 
